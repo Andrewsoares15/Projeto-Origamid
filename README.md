@@ -1,3 +1,13 @@
 # Projeto-origamid
-Site feito em HTML5, CSS3 e um pouco de JS.
-link do site: https://andrewsoares15.github.io/Projeto-origamid/
+ ## Bikcraft
+ ![Imagem do Site](https://github.com/Andrewsoares15/Projeto-origamid/blob/main/git2.png)
+ 
+ ## Tecnologias Usadas
+ - HTML5
+ - CSS3
+ - JavaScript
+ 
+ 
+ 
+ ## Link do site:
+ https://andrewsoares15.github.io/Projeto-origamid/
